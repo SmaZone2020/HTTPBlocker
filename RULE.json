@@ -1,0 +1,24 @@
+{
+  "host": [
+    {
+      "github.com": {
+        "allow": false,
+        "path": [
+          "SmaZone2020",
+          "porn",
+          "xvideo"
+        ]
+      }
+    },
+    {
+      "baidu.*": {
+        "allow": true
+      }
+    },
+    {
+      "*.site": {
+        "allow": true
+      }
+    }
+  ]
+}
